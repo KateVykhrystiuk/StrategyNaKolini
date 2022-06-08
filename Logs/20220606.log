@@ -1,2 +1,13 @@
 0	18:51:43.248	Custom indicator Stochastic-RSI EURUSD,H4: loaded successfully
 0	18:51:43.260	Stochastic-RSI EURUSD,H4: initialized
+0	21:20:33.313	Compiling 'Strategy_on_the_kolino'
+0	21:20:35.169	Compiling 'TestScript'
+0	21:20:37.362	Custom indicator Stochastic-RSI EURCHF,M5: loaded successfully
+3	21:20:37.363	cannot open file 'C:\Users\slyub\AppData\Roaming\MetaQuotes\Terminal\2E8DC23981084565FA3E19C061F586B2\MQL4\Experts\Na_kolini.ex4' [2]
+0	21:20:37.476	Stochastic-RSI EURCHF,M5: initialized
+0	21:20:37.524	Custom indicator Stochastic-RSI EURUSD,M1: loaded successfully
+0	21:20:37.614	Stochastic-RSI EURUSD,M1: initialized
+0	21:22:06.150	Stochastic-RSI EURCHF,M5: uninit reason 9
+0	21:22:06.150	Stochastic-RSI EURUSD,M1: uninit reason 9
+0	21:22:06.290	Custom indicator Stochastic-RSI EURCHF,M5: removed
+0	21:22:06.304	Custom indicator Stochastic-RSI EURUSD,M1: removed
