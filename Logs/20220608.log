@@ -2,3 +2,203 @@
 0	18:28:58.083	Stochastic-RSI EURCHF,M5: initialized
 0	18:28:58.230	Custom indicator Stochastic-RSI EURUSD,M1: loaded successfully
 0	18:28:58.444	Stochastic-RSI EURUSD,M1: initialized
+0	19:28:14.711	Script TestScript EURCHF,M5: loaded successfully
+0	19:28:14.761	TestScript EURCHF,M5: initialized
+0	19:28:14.762	TestScript EURCHF,M5: Alert: 1e-05
+0	19:28:14.762	TestScript EURCHF,M5: uninit reason 0
+0	19:28:14.765	Script TestScript EURCHF,M5: removed
+0	19:28:27.846	Script TestScript USDJPY,H4: loaded successfully
+0	19:28:27.918	TestScript USDJPY,H4: initialized
+0	19:28:27.918	TestScript USDJPY,H4: Alert: 0.001
+0	19:28:27.918	TestScript USDJPY,H4: uninit reason 0
+0	19:28:27.922	Script TestScript USDJPY,H4: removed
+0	19:28:35.518	Script TestScript USDJPY,H4: loaded successfully
+0	19:28:35.592	TestScript USDJPY,H4: initialized
+0	19:28:35.592	TestScript USDJPY,H4: Alert: 0.001
+0	19:28:35.592	TestScript USDJPY,H4: uninit reason 0
+0	19:28:35.600	Script TestScript USDJPY,H4: removed
+0	19:28:40.646	Script TestScript EURUSD,M1: loaded successfully
+0	19:28:40.843	TestScript EURUSD,M1: initialized
+0	19:28:40.843	TestScript EURUSD,M1: Alert: 1e-05
+0	19:28:40.843	TestScript EURUSD,M1: uninit reason 0
+0	19:28:40.849	Script TestScript EURUSD,M1: removed
+0	19:32:44.934	Script TestScript EURUSD,M1: loaded successfully
+0	19:32:45.132	TestScript EURUSD,M1: initialized
+0	19:32:45.132	TestScript EURUSD,M1: Alert: 1.0
+0	19:32:45.132	TestScript EURUSD,M1: uninit reason 0
+0	19:32:45.138	Script TestScript EURUSD,M1: removed
+0	19:32:53.374	Script TestScript USDJPY,H4: loaded successfully
+0	19:32:53.448	TestScript USDJPY,H4: initialized
+0	19:32:53.448	TestScript USDJPY,H4: Alert: 0.7463354927306923
+0	19:32:53.448	TestScript USDJPY,H4: uninit reason 0
+0	19:32:53.454	Script TestScript USDJPY,H4: removed
+0	19:33:12.662	Script TestScript EURCHF,M5: loaded successfully
+0	19:33:12.712	TestScript EURCHF,M5: initialized
+0	19:33:12.712	TestScript EURCHF,M5: Alert: 1.025346567139693
+0	19:33:12.712	TestScript EURCHF,M5: uninit reason 0
+0	19:33:12.718	Script TestScript EURCHF,M5: removed
+3	19:39:06.475	cannot open file 'C:\Users\slyub\AppData\Roaming\MetaQuotes\Terminal\2E8DC23981084565FA3E19C061F586B2\MQL4\Scripts\TestScript.ex4' [2]
+0	19:39:58.054	Script TestScript EURUSD,M1: loaded successfully
+0	19:39:58.255	TestScript EURUSD,M1: initialized
+0	19:39:58.255	TestScript EURUSD,M1: Alert: 0.001599999999999824
+0	19:39:58.255	TestScript EURUSD,M1: uninit reason 0
+0	19:39:58.268	Script TestScript EURUSD,M1: removed
+0	19:48:08.333	Script TestScript EURUSD,M1: loaded successfully
+0	19:48:08.535	TestScript EURUSD,M1: initialized
+0	19:48:08.535	TestScript EURUSD,M1: Alert: 0.0016
+0	19:48:08.535	TestScript EURUSD,M1: uninit reason 0
+0	19:48:08.540	Script TestScript EURUSD,M1: removed
+0	19:48:25.310	Script TestScript EURUSD,M1: loaded successfully
+0	19:48:25.521	TestScript EURUSD,M1: initialized
+0	19:48:25.521	TestScript EURUSD,M1: Alert: 0.0016
+0	19:48:25.521	TestScript EURUSD,M1: uninit reason 0
+0	19:48:25.525	Script TestScript EURUSD,M1: removed
+0	19:48:43.037	Script TestScript EURCHF,M5: loaded successfully
+0	19:48:43.086	TestScript EURCHF,M5: initialized
+0	19:48:43.087	TestScript EURCHF,M5: Alert: 0.0016
+0	19:48:43.087	TestScript EURCHF,M5: uninit reason 0
+0	19:48:43.092	Script TestScript EURCHF,M5: removed
+0	19:48:51.301	Script TestScript GBPUSD,H4: loaded successfully
+0	19:48:51.377	TestScript GBPUSD,H4: initialized
+0	19:48:51.377	TestScript GBPUSD,H4: Alert: 0.0016
+0	19:48:51.377	TestScript GBPUSD,H4: uninit reason 0
+0	19:48:51.383	Script TestScript GBPUSD,H4: removed
+0	19:49:03.301	Script TestScript USDJPY,H4: loaded successfully
+0	19:49:03.375	TestScript USDJPY,H4: initialized
+0	19:49:03.375	TestScript USDJPY,H4: Alert: 0.0016
+0	19:49:03.375	TestScript USDJPY,H4: uninit reason 0
+0	19:49:03.379	Script TestScript USDJPY,H4: removed
+0	19:49:32.031	Script TestScript USDCHF,H1: loaded successfully
+0	19:49:32.090	TestScript USDCHF,H1: initialized
+0	19:49:32.090	TestScript USDCHF,H1: Alert: 0.0016
+0	19:49:32.090	TestScript USDCHF,H1: uninit reason 0
+0	19:49:32.116	Script TestScript USDCHF,H1: removed
+0	19:50:22.629	Script TestScript USDJPY,H4: loaded successfully
+0	19:50:22.699	TestScript USDJPY,H4: initialized
+0	19:50:22.699	TestScript USDJPY,H4: Alert: 0.0016
+0	19:50:22.700	TestScript USDJPY,H4: uninit reason 0
+0	19:50:22.703	Script TestScript USDJPY,H4: removed
+0	19:50:26.989	Script TestScript GBPUSD,H4: loaded successfully
+0	19:50:27.060	TestScript GBPUSD,H4: initialized
+0	19:50:27.060	TestScript GBPUSD,H4: Alert: 0.0016
+0	19:50:27.060	TestScript GBPUSD,H4: uninit reason 0
+0	19:50:27.063	Script TestScript GBPUSD,H4: removed
+0	19:51:00.461	Script TestScript GBPUSD,H4: loaded successfully
+0	19:51:00.534	TestScript GBPUSD,H4: initialized
+0	19:51:00.534	TestScript GBPUSD,H4: Alert: 0.0016
+0	19:51:00.534	TestScript GBPUSD,H4: Alert: GBPUSD
+0	19:51:00.534	TestScript GBPUSD,H4: uninit reason 0
+0	19:51:00.537	Script TestScript GBPUSD,H4: removed
+0	19:51:06.077	Script TestScript EURUSD,M1: loaded successfully
+0	19:51:06.277	TestScript EURUSD,M1: initialized
+0	19:51:06.277	TestScript EURUSD,M1: Alert: 0.0016
+0	19:51:06.278	TestScript EURUSD,M1: Alert: EURUSD
+0	19:51:06.278	TestScript EURUSD,M1: uninit reason 0
+0	19:51:06.283	Script TestScript EURUSD,M1: removed
+0	20:08:15.805	Script TestScript EURUSD,M1: loaded successfully
+0	20:08:16.005	TestScript EURUSD,M1: initialized
+0	20:08:16.005	TestScript EURUSD,M1: Alert: 1.0
+0	20:08:16.005	TestScript EURUSD,M1: uninit reason 0
+0	20:08:16.010	Script TestScript EURUSD,M1: removed
+0	20:08:23.420	Script TestScript GBPUSD,H4: loaded successfully
+0	20:08:23.491	TestScript GBPUSD,H4: initialized
+0	20:08:23.491	TestScript GBPUSD,H4: Alert: 1.0
+0	20:08:23.491	TestScript GBPUSD,H4: uninit reason 0
+0	20:08:23.494	Script TestScript GBPUSD,H4: removed
+0	20:08:28.605	Script TestScript EURCHF,M5: loaded successfully
+0	20:08:28.654	TestScript EURCHF,M5: initialized
+0	20:08:28.654	TestScript EURCHF,M5: Alert: 1.024569168664577
+0	20:08:28.654	TestScript EURCHF,M5: uninit reason 0
+0	20:08:28.658	Script TestScript EURCHF,M5: removed
+0	20:09:39.300	Script TestScript EURUSD,M1: loaded successfully
+0	20:09:39.499	TestScript EURUSD,M1: initialized
+0	20:09:39.499	TestScript EURUSD,M1: Alert: 1e-05
+0	20:09:39.499	TestScript EURUSD,M1: uninit reason 0
+0	20:09:39.506	Script TestScript EURUSD,M1: removed
+0	20:09:45.844	Script TestScript USDJPY,H4: loaded successfully
+0	20:09:45.916	TestScript USDJPY,H4: initialized
+0	20:09:45.916	TestScript USDJPY,H4: Alert: 0.001
+0	20:09:45.916	TestScript USDJPY,H4: uninit reason 0
+0	20:09:45.921	Script TestScript USDJPY,H4: removed
+3	20:12:29.666	cannot open file 'C:\Users\slyub\AppData\Roaming\MetaQuotes\Terminal\2E8DC23981084565FA3E19C061F586B2\MQL4\Scripts\TestScript.ex4' [2]
+0	20:14:00.928	Script TestScript USDJPY,H4: loaded successfully
+0	20:14:01.001	TestScript USDJPY,H4: initialized
+0	20:14:01.002	TestScript USDJPY,H4: Alert: 27
+0	20:14:01.002	TestScript USDJPY,H4: uninit reason 0
+0	20:14:01.005	Script TestScript USDJPY,H4: removed
+0	20:14:14.524	Script TestScript EURUSD,M1: loaded successfully
+0	20:14:14.724	TestScript EURUSD,M1: initialized
+0	20:14:14.724	TestScript EURUSD,M1: Alert: 19
+0	20:14:14.724	TestScript EURUSD,M1: uninit reason 0
+0	20:14:14.728	Script TestScript EURUSD,M1: removed
+0	20:15:05.683	Script TestScript EURUSD,M1: loaded successfully
+0	20:15:05.882	TestScript EURUSD,M1: initialized
+0	20:15:05.882	TestScript EURUSD,M1: Alert: 18
+0	20:15:05.882	TestScript EURUSD,M1: Alert: 18.0
+0	20:15:05.882	TestScript EURUSD,M1: uninit reason 0
+0	20:15:05.889	Script TestScript EURUSD,M1: removed
+0	20:18:30.333	Script TestScript EURUSD,M1: loaded successfully
+0	20:18:30.534	TestScript EURUSD,M1: initialized
+0	20:18:30.535	TestScript EURUSD,M1: Alert: -0.0001799999999998469
+0	20:18:30.535	TestScript EURUSD,M1: uninit reason 0
+0	20:18:30.541	Script TestScript EURUSD,M1: removed
+0	20:18:49.172	Script TestScript EURCHF,M5: loaded successfully
+0	20:18:49.224	TestScript EURCHF,M5: initialized
+0	20:18:49.224	TestScript EURCHF,M5: Alert: -0.0002699999999999925
+0	20:18:49.224	TestScript EURCHF,M5: uninit reason 0
+0	20:18:49.228	Script TestScript EURCHF,M5: removed
+0	20:19:51.195	Script TestScript EURCHF,M5: loaded successfully
+0	20:19:51.244	TestScript EURCHF,M5: initialized
+0	20:19:51.244	TestScript EURCHF,M5: Alert: 0.00032
+0	20:19:51.244	TestScript EURCHF,M5: uninit reason 0
+0	20:19:51.247	Script TestScript EURCHF,M5: removed
+0	20:19:59.708	Script TestScript EURCHF,M5: loaded successfully
+0	20:19:59.755	TestScript EURCHF,M5: initialized
+0	20:19:59.755	TestScript EURCHF,M5: Alert: 0.0003
+0	20:19:59.755	TestScript EURCHF,M5: uninit reason 0
+0	20:19:59.758	Script TestScript EURCHF,M5: removed
+0	20:20:02.611	Script TestScript EURCHF,M5: loaded successfully
+0	20:20:02.660	TestScript EURCHF,M5: initialized
+0	20:20:02.660	TestScript EURCHF,M5: Alert: 0.00028
+0	20:20:02.660	TestScript EURCHF,M5: uninit reason 0
+0	20:20:02.663	Script TestScript EURCHF,M5: removed
+0	20:20:05.251	Script TestScript EURCHF,M5: loaded successfully
+0	20:20:05.301	TestScript EURCHF,M5: initialized
+0	20:20:05.301	TestScript EURCHF,M5: Alert: 0.00025
+0	20:20:05.301	TestScript EURCHF,M5: uninit reason 0
+0	20:20:05.307	Script TestScript EURCHF,M5: removed
+0	20:24:03.323	Script TestScript EURCHF,M5: loaded successfully
+0	20:24:03.374	TestScript EURCHF,M5: initialized
+0	20:24:03.374	TestScript EURCHF,M5: Alert: 0.000299999999999967
+0	20:24:03.374	TestScript EURCHF,M5: uninit reason 0
+0	20:24:03.378	Script TestScript EURCHF,M5: removed
+0	20:24:09.283	Script TestScript USDJPY,H4: loaded successfully
+0	20:24:09.357	TestScript USDJPY,H4: initialized
+0	20:24:09.357	TestScript USDJPY,H4: Alert: 0.03300000000001546
+0	20:24:09.357	TestScript USDJPY,H4: uninit reason 0
+0	20:24:09.360	Script TestScript USDJPY,H4: removed
+0	20:24:11.845	Script TestScript USDJPY,H4: loaded successfully
+0	20:24:11.917	TestScript USDJPY,H4: initialized
+0	20:24:11.917	TestScript USDJPY,H4: Alert: 0.02600000000001046
+0	20:24:11.917	TestScript USDJPY,H4: uninit reason 0
+0	20:24:11.920	Script TestScript USDJPY,H4: removed
+0	20:24:14.099	Script TestScript USDJPY,H4: loaded successfully
+0	20:24:14.172	TestScript USDJPY,H4: initialized
+0	20:24:14.172	TestScript USDJPY,H4: Alert: 0.03299999999998704
+0	20:24:14.172	TestScript USDJPY,H4: uninit reason 0
+0	20:24:14.176	Script TestScript USDJPY,H4: removed
+0	20:24:19.771	Script TestScript USDJPY,H4: loaded successfully
+0	20:24:19.844	TestScript USDJPY,H4: initialized
+0	20:24:19.844	TestScript USDJPY,H4: Alert: 0.02799999999999159
+0	20:24:19.844	TestScript USDJPY,H4: uninit reason 0
+0	20:24:19.847	Script TestScript USDJPY,H4: removed
+0	20:24:21.536	Script TestScript USDJPY,H4: loaded successfully
+0	20:24:21.611	TestScript USDJPY,H4: initialized
+0	20:24:21.611	TestScript USDJPY,H4: Alert: 0.02799999999999159
+0	20:24:21.611	TestScript USDJPY,H4: uninit reason 0
+0	20:24:21.617	Script TestScript USDJPY,H4: removed
+0	20:24:23.212	Script TestScript USDJPY,H4: loaded successfully
+0	20:24:23.287	TestScript USDJPY,H4: initialized
+0	20:24:23.287	TestScript USDJPY,H4: Alert: 0.02799999999999159
+0	20:24:23.287	TestScript USDJPY,H4: uninit reason 0
+0	20:24:23.291	Script TestScript USDJPY,H4: removed
